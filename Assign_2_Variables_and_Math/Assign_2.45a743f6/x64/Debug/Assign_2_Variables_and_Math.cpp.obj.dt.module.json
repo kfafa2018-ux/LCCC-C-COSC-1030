@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Assign_2.45a743f6\\x64\\Debug\\Assign_2_Variables_and_Math.obj",
+            "outputs": [
+                "Assign_2.45a743f6\\x64\\Debug\\Assign_2_Variables_and_Math.cpp.obj.dt.module.json",
+                "Assign_2.45a743f6\\x64\\Debug\\Assign_2_Variables_and_Math.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

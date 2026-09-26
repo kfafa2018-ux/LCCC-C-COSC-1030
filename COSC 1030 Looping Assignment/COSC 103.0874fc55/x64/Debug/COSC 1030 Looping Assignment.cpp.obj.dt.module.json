@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "COSC 103.0874fc55\\x64\\Debug\\COSC 1030 Looping Assignment.obj",
+            "outputs": [
+                "COSC 103.0874fc55\\x64\\Debug\\COSC 1030 Looping Assignment.cpp.obj.dt.module.json",
+                "COSC 103.0874fc55\\x64\\Debug\\COSC 1030 Looping Assignment.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

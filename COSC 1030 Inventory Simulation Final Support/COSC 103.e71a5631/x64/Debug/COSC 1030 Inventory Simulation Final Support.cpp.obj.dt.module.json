@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "COSC 103.e71a5631\\x64\\Debug\\COSC 1030 Inventory Simulation Final Support.obj",
+            "outputs": [
+                "COSC 103.e71a5631\\x64\\Debug\\COSC 1030 Inventory Simulation Final Support.cpp.obj.dt.module.json",
+                "COSC 103.e71a5631\\x64\\Debug\\COSC 1030 Inventory Simulation Final Support.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

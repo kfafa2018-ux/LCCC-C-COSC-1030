@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Assignme.24bb6e7d\\x64\\Debug\\Assignment 5 Coin Toss.obj",
+            "outputs": [
+                "Assignme.24bb6e7d\\x64\\Debug\\Assignment 5 Coin Toss.cpp.obj.dt.module.json",
+                "Assignme.24bb6e7d\\x64\\Debug\\Assignment 5 Coin Toss.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
